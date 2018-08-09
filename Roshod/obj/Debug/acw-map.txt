@@ -1,0 +1,4 @@
+Roshod.MainActivity, Roshod;md59b4c11fd2b2368e9c5d8acd7257a43d9.MainActivity
+Roshod.MainActivity, Roshod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59b4c11fd2b2368e9c5d8acd7257a43d9.MainActivity
+Roshod.MainActivity;md59b4c11fd2b2368e9c5d8acd7257a43d9.MainActivity
+roshod.MainActivity;md59b4c11fd2b2368e9c5d8acd7257a43d9.MainActivity

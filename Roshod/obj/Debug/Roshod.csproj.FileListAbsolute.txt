@@ -1,0 +1,15 @@
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\bin\Debug\Roshod.dll
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\bin\Debug\Roshod.pdb
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\bin\Debug\Roshod.Roshod.apk
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\bin\Debug\Roshod.Roshod-Signed.apk
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\Roshod.csprojResolveAssemblyReference.cache
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\Roshod.dll
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\Roshod.pdb
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\android\bin\Roshod.Roshod.apk
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\res\layout\main.xml
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\res\values\strings.xml
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\res\drawable\icon.png
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\R.cs.flag
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\uploadflags.txt
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\bin\Debug\Roshod.dll.mdb
+c:\users\tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Debug\android\assets\Roshod.dll.mdb

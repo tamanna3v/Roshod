@@ -1,0 +1,11 @@
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\Roshod.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\mscorlib.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\System.Core.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\System.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\System.Xml.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\Mono.CSharp.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Tamanna\documents\visual studio 2017\Projects\Roshod\Roshod\obj\Release\android\assets\Mono.Security.dll
